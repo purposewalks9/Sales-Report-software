@@ -34,9 +34,9 @@ This tool is ideal for businesses that need regular reports without manual inter
 
 # python -m venv venv
 
-**venv\Scripts\activate   # On Windows*
+venv\Scripts\activate   # On Windows
 
-**source venv/bin/activate  # On macOS/Linux**
+source venv/bin/activate  # On macOS/Linux
 
 
 
