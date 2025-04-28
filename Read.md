@@ -24,7 +24,7 @@ This tool is ideal for businesses that need regular reports without manual inter
 ### Steps:
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/sales-report-software.git
+   git clone https://github.com/purposewalks9/sales-report-software.git
 
 # Install the required Python libraries:
 
